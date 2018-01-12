@@ -27,7 +27,7 @@ Download this package in the _src_ folder of your ROS workspace
 #### **Dependencies** 
 This package depends from the ROS _joy_node_. To install it on Ubuntu 16.04
 
-```sudo apt-get install ros-kinetic-joy-node```
+```sudo apt-get install ros-kinetic-joy```
 
 ### **Get this book** (in pre-order)
 - [Packt Publishing](https://www.packtpub.com/hardware-and-creative/mastering-ros-robotics-programming-second-edition) 
